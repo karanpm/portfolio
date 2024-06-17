@@ -25,6 +25,7 @@ Credits:
 
 	Icons:
 		Font Awesome (fontawesome.io)
+		Alexander Yordan Mulia From Noun Project
 
 	Other:
 		jQuery (jquery.com)

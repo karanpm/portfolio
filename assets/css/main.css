@@ -3827,7 +3827,6 @@ input, select, textarea {
 			opacity: 0;
 			overflow: auto;
 			text-align: center;
-			vertical-align: bottom;
 			visibility: hidden;
 			width: 18em;
 		}
